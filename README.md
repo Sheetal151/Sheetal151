@@ -6,12 +6,12 @@
 [![leetcode Badge](https://img.shields.io/badge/-@leetcode-yellow?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/user3372wX/)](https://leetcode.com/user3372wX/)
 
 ## I'm a  Full stack developer! <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
-- 👨🏻‍💻 Developer 
+-  Developer 
 - 🔭 I’m currently working on MERN stack🤖!
 - 🌱 I’m currently learning everything 🤣
 - 💡 I love innovation and new technologies
 - 🥅 2024 Goals: Contribute more to Open Source projects
-- 🚀 One day I will see humans on Mars!
+  
 
 <br />
 
